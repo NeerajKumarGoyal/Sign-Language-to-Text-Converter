@@ -1,0 +1,8 @@
+1. PIL --> pip install pillow
+2. Tkinter --> pip install tkinter
+3. OpenCV --> pip install opencv
+4. Numpy --> pip install numpy
+5. Keras --> pip install keras
+6. Text to Speech --> pip install pyttsx3
+7. Matplotlib --> pip install matplotlib
+8. Hunspell --> pip install hunspell
